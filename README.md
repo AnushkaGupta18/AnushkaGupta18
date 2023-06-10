@@ -3,11 +3,16 @@
 
 - 🔭 I’m currently working on **a Deep Drowsiness Detection Model!**
 
-- 🌱 I’m currently learning **Front-End Web Development**
+- 🌱 I’m currently learning **Front-End Web Development!**
 
-- 💬 Ask me about **Data Science, Machine Learning and Computer Science**
+- 💬 I'm interested in **Data Science, Machine Learning and Computer Science**
 
 - 📫 How to reach me **guptaanushka2002@gmail.com**
+
+- 👀 I'm looking for internships in the field of data science and software development!
+
+- 🔗 Connect with me on   <a href="https://linkedin.com/in/anushkaguptax" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/linkedin/linkedin-icon-filled-256.png?v=1685174883283" alt="anushkaguptax" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/anushkaguptax" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="anushkaguptax" height="30" width="30" /></a>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
