@@ -7,7 +7,7 @@
 
 - 💬 I'm interested in **Data Science, Machine Learning and Computer Science**
 
-- 📫 How to reach me **guptaanushka2002@gmail.com**
+- 📫 Reach me at **guptaanushka2002@gmail.com**
 
 - 👀 I'm looking for internships in the field of data science and software development!
 
