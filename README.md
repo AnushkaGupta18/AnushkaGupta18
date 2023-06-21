@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 <h3 align="center">Machine Learning Engineer, Student from Manipal University</h3>
 
-- 🔭 I’m currently working on **a Deep Drowsiness Detection Model!**
+- 🔭 I’m currently working on **a Full-Stack Spotify Clone!**
 
 - 🌱 I’m currently learning **Front-End Web Development!**
 
