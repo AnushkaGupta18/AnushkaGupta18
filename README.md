@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 <h3 align="center">Machine Learning Engineer, Student from Manipal University</h3>
 
-- 🔭 I’m currently working on **Promptopia!**
-
-- 🌱 I’m currently learning **Front-End Web Development!**
-
 - 💬 I'm interested in **Data Science, Machine Learning and Computer Science**
 
 - 📫 Reach me at **guptaanushka2002@gmail.com**
 
-- 👀 I'm looking for internships in the field of data science and software development!
+- 👀 I'm looking for jobs in the field of data analytics and software development!
 
 - 🔗 Connect with me on   <a href="https://linkedin.com/in/anushkaguptax" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/linkedin/linkedin-icon-filled-256.png?v=1685174883283" alt="anushkaguptax" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/anushkaguptax" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="anushkaguptax" height="30" width="30" /></a>
